@@ -142,7 +142,7 @@ width: 750px;
 }
 .header .logo{
     width: 60px;
-    z-index: -2;
+    z-index: -3;
 }
 .header .links{
     position: relative;
