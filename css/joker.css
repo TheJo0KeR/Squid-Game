@@ -67,7 +67,7 @@ color: var(--main-color)
 
 @media(max-width: 768px){
     .special-heading1{
-        font-size: 48px;
+        font-size: 55px;
         padding: 19px;
     }
 }
@@ -84,7 +84,7 @@ color: var(--main-color)
 
 @media (max-width: 768px){
  .special-heading {
-    font-size: 48px;
+    font-size: 67px;
     padding: 19px;
 }
 .special-heading + p{
